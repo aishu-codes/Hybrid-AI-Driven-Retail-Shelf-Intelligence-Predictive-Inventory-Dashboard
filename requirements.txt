@@ -1,0 +1,7 @@
+YOLOv8
+Streamlit
+OpenCV
+Twilio
+pandas
+
+# Add any additional dependencies below
